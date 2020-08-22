@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-server",
+  "version": "1.0.0",
+  "description": "This is a nodejs lite server ",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evgeniykorobkov/nodejs.git"
+  },
+  "author": "Evgeniy Korobkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evgeniykorobkov/nodejs/issues"
+  },
+  "homepage": "https://github.com/evgeniykorobkov/nodejs#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
